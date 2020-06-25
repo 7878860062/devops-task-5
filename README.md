@@ -316,4 +316,4 @@ Similarly use the same IP with the port number for Grafana Deployment
 ![12](https://user-images.githubusercontent.com/66811679/85681185-46ed8480-b688-11ea-9f40-cc6f41fae8f6.jpg)
 
 
-                                                                       **THANK YOU**
+                                                             
