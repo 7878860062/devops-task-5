@@ -20,5 +20,5 @@ spec:
         - name: graf-os
           image: dockerninad07/grafana:v1
           imagePullPolicy: IfNotPresent
-      restartPolicy: Always 
+      restartPolicy: Always  
 
